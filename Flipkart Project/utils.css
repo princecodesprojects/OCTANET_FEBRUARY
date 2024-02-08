@@ -1,0 +1,36 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
+/* .flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding: 5px 10px;
+    margin-bottom: 12px;
+    margin-left: 5px;
+    color: white;
+    background-color: #4665ea;
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+  .btn:hover{
+      font-weight: bolder;
+  }
+
+  .slider{
+    margin: 20px auto;
+    width:80vw
+} */
